@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-wishlist/static/css/main.7e5dfe32.css",
+    "main.js": "/reactjs-wishlist/static/js/main.8517bb6b.js",
+    "index.html": "/reactjs-wishlist/index.html",
+    "main.7e5dfe32.css.map": "/reactjs-wishlist/static/css/main.7e5dfe32.css.map",
+    "main.8517bb6b.js.map": "/reactjs-wishlist/static/js/main.8517bb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e5dfe32.css",
+    "static/js/main.8517bb6b.js"
+  ]
+}
