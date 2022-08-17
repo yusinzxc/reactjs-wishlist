@@ -2,7 +2,7 @@
   "name": "wishlist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yusinzxc.github.io/react_wishlist_app",
+  "homepage": "http://yusinzxc.github.io/reactjs-wishlist",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
